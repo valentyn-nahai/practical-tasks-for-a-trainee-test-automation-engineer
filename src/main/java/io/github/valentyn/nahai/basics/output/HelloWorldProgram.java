@@ -1,4 +1,4 @@
-package io.github.valentyn.nahai.basics;
+package io.github.valentyn.nahai.basics.output;
 
 /*
  * Task:
