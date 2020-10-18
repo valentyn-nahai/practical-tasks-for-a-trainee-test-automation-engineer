@@ -9,7 +9,7 @@ public class CompoundAssignmentOperator {
     public static void main(String[] args) {
         int totalResult = 20;
         
-        totalResult =+ totalResult + 30;
+        totalResult = totalResult + 30;
         System.out.println("Total result: " + totalResult);
 
         totalResult = totalResult - 43;
@@ -24,7 +24,7 @@ public class CompoundAssignmentOperator {
         totalResult = totalResult % 7;
         System.out.println("Total result: " + totalResult);
         
-        // Hint: int totalResult =+ 30;
+        // Hint: int totalResult += 30;
         // ...
     }
 }
