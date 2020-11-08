@@ -1,6 +1,6 @@
 package io.github.valentyn.nahai.oop.polymorphism;
 
-/**
+/*
  * Task:
  * Override methods in each class to represent the behavior of a specific animal.
  * Feel free to extend the functionality of the provided classes.
